@@ -1,0 +1,3 @@
+[submodule "circular-buffer"]
+	path = circular-buffer
+	url = https://github.com/1nmn/circular-buffer
